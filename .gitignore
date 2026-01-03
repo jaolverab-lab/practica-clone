@@ -7,7 +7,7 @@ __pycache__/
 venv/
 env/
 
-# VS Code (config local)
+# VS Code
 .vscode/
 
 # macOS
